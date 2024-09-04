@@ -45,5 +45,5 @@ Create a button with functionality to clear the list.
 Display the number of items in the list using the length property of the state variable. This can be rendered using plain text or added to a message or heading element.
 
 
-#Mistake
+# Mistake
 The big mistake that I made on the this project was that I forgot to add a return statement to my map function that prevented the list to be rendered. Took me about 15 - 20 mins to figure that out. It was a really rookie mistake. I should be better than that !!!!!!!!
